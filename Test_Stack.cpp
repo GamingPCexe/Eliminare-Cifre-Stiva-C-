@@ -21,14 +21,8 @@ int main()
 	{
 
 
-		//initializare/citire
-	int y;
-
-
-
-
-
-	      int n, k, x, Min;
+	//initializare/citire
+	int n, k, x, Min;
 	stack<int> stack_1, stack_2;
 	cin >> n >> k;
 	cin >> x;
